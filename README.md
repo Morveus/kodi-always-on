@@ -32,4 +32,4 @@ python3 KodiLauncher.py
 
 ## Credits
 
-This application was written by GPT-4, a large language model trained by OpenAI.
+This application and this README were written by GPT-4, a large language model trained by OpenAI.
