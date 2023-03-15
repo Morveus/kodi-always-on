@@ -1,5 +1,3 @@
-markdown
-Copy code
 # KodiLauncher
 
 KodiLauncher is a simple Python application that allows you to launch Kodi and ensure that it is always running and maximized on your Windows desktop.
